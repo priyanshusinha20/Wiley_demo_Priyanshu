@@ -1,0 +1,8 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
+//This is the Java code for test of git hub
+By Priyanshu Sinha
